@@ -1,4 +1,4 @@
-# IFPE
+# REPOSTÓRIO IFPE
  Oi Pessoal. 
  
  Criei esse repositório para compartilhar com meus estudantes do IFPE os materiais que uso nas minhas disciplinas.
